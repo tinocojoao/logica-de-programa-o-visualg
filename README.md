@@ -1,2 +1,1 @@
-# logica-de-programação-visualg
-
+Estes exercícios foram propostos pelo curso de Lógica de Programação de 40 horas do CursoemVideo. O objetivo deste repositório é armazenar meus estudos e as atividades realizadas. Além disso, a pasta contém os exercícios resolvidos pelo Gustavo Guanabara e um arquivo PDF.
