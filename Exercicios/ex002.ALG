@@ -1,4 +1,4 @@
-algoritmo "semnome"
+algoritmo "valores"
 var
    N1, N2, S: Inteiro
 inicio
